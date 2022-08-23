@@ -1,6 +1,5 @@
 print("CIAO A TUTTI")
 
-
 a = 4
 
 
