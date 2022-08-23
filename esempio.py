@@ -1,9 +1,3 @@
-print("CIAO A TUTTI")
+def somma_potenza(n,power):
+    return n + n**power
 
-a = 4
-
-
-if a < 10:
-    print("STUPIDO")
-else:
-    print("IGNORANTE")
